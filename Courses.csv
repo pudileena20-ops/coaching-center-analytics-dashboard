@@ -1,0 +1,6 @@
+CourseID,CourseName,Subject,Instructor,BatchTiming,StartDate,EndDate
+CRS-001,Spoken English Mastery,English,Ms. Priya Rao,Morning (7-9 AM),2025-01-05,2025-06-05
+CRS-002,Data Science Foundations,Technology,Mr. Arjun Kumar,Evening (6-8 PM),2025-01-15,2025-07-15
+CRS-003,Bank PO Exam Preparation,Competitive Exams,Ms. Sunita Iyer,Morning (8-10 AM),2025-02-01,2025-08-01
+CRS-004,Spoken Hindi for Beginners,Language,Mr. Ravi Shankar,Evening (5-7 PM),2025-02-10,2025-05-10
+CRS-005,Digital Marketing Basics,Marketing,Ms. Kavya Reddy,Afternoon (2-4 PM),2025-03-01,2025-07-01
